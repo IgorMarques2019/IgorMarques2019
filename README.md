@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Igor Marques.
+# 👨🏻‍💻 Wellcome
 
-![enter image description here](https://res.cloudinary.com/practicaldev/image/fetch/s--59psmm_e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/62tymo1zomi4qdfjgrge.jpg)
+
 **Hello** 🌾
 Welcome to my GitHub Profile, my name is Igor, I'm a Brazilian passionate about **front end programming.**
 
