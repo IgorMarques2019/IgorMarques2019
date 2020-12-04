@@ -1,4 +1,3 @@
-# 👨🏻‍💻 Welcome
 
 ![enter image description here](https://img.itch.zone/aW1nLzExNTExMTguZ2lm/original/wRWQpp.gif)
 *
