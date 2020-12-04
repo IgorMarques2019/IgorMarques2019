@@ -1,6 +1,6 @@
 
 ![enter image description here](https://img.itch.zone/aW1nLzExNTExMTguZ2lm/original/wRWQpp.gif)
-*
+
 >
 Welcome to my GitHub Profile, my name is Igor, I'm a Brazilian passionate about **front end programming.**
 
