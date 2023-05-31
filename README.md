@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Igor!</h1>
-<h3 align="center">Sou um apaixonado por tecnologias, vivo em São Paulo, Brasil.</h3>
+<h3 align="center">Sou um apaixonado por tecnologias, moro atualm em São Paulo, Brasil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igormarques2019&label=Profile%20views&color=0e75b6&style=flat" alt="igormarques2019" /> </p>
 
