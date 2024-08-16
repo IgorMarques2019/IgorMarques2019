@@ -1,4 +1,4 @@
-![GitHub Logo](https://i.ibb.co/8gjJ75w/wdwdw.png)
+<img src="https://i.ibb.co/8gjJ75w/wdwdw.png" width="100%">
 
 ## Olá, eu sou o Igor 👩‍🚀
 
