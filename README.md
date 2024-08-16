@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/8gjJ75w/wdwdw.png" width="100%"/>
+![GitHub Logo](https://i.ibb.co/8gjJ75w/wdwdw.png)
 
 ## Olá, eu sou o Igor 👩‍🚀
 
@@ -33,5 +33,4 @@ Abaixo pode encontrar alguns repositórios na qual eu criei durante todo meu apr
 ![GitHub logo](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![GitHub logo](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Status](https://github-readme-stats.vercel.app/api?username=IgorMarques2019&show_icons=true&theme=onedark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=1000)
